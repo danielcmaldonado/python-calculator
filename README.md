@@ -63,8 +63,6 @@ python-calculator/
 │
 ├── calculator.py
 ├── README.md
-└── images/
-    └── calculator-demo.png
 ```
 
 ---
