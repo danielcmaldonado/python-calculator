@@ -1,21 +1,44 @@
-# Python Calculator
+# 🧮 Python Calculator
 
-A simple command-line calculator built with Python that performs basic arithmetic operations.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Features
+A simple command-line calculator built with Python that performs the four basic arithmetic operations while handling common user errors.
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Handles invalid menu options
-- Prevents division by zero
+---
 
-## Technologies
+## 📖 About
+
+This project was created to practice Python fundamentals, including user input, conditional statements, arithmetic operations, and basic error handling. It provides a clean and beginner-friendly command-line interface.
+
+---
+
+## 🎮 Example
+
+![Calculator Demo](images/calculator-demo.png)
+
+---
+
+## ✨ Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- ⚠️ Invalid menu option handling
+- 🚫 Division by zero protection
+- 💻 Simple command-line interface
+
+---
+
+## 🛠️ Technologies
 
 - Python 3
 
-## How to Run
+---
+
+## 🚀 How to Run
 
 1. Clone this repository:
 
@@ -31,33 +54,47 @@ git clone https://github.com/danielcmaldonado/python-calculator.git
 python calculator.py
 ```
 
-## Project Structure
+---
 
-```
+## 📂 Project Structure
+
+```text
 python-calculator/
 │
 ├── calculator.py
-└── README.md
+├── README.md
+└── images/
+    └── calculator-demo.png
 ```
 
-## What I Learned
+---
 
-Through this project, I practiced:
+## 📚 What I Learned
+
+During this project, I practiced:
 
 - Variables
 - User input
 - Conditional statements (`if`, `elif`, `else`)
+- Functions
 - Basic arithmetic operations
 - Error handling
 - Writing clean and organized Python code
 
-## Future Improvements
+---
+
+## 🚀 Future Improvements
 
 - Create a graphical user interface (GUI)
-- Add more mathematical operations
+- Add advanced mathematical operations
 - Improve input validation
-- Add unit tests
+- Implement unit tests
+- Refactor the code using object-oriented programming
 
-## About
+---
 
-This is my first Python project as part of my journey into Cybersecurity. More projects will be added as I continue learning and improving my programming skills.
+## 👨‍💻 Author
+
+**Daniel Callejon Maldonado**
+
+This is one of the first projects in my programming portfolio. It represents an important step in my journey toward becoming a Cybersecurity professional while building a solid foundation in Python.
