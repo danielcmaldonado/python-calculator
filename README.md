@@ -16,7 +16,7 @@ This project was created to practice Python fundamentals, including user input, 
 
 ## 🎮 Example
 
-![Calculator Demo](images/calculator-demo.png)
+<img width="261" height="171" alt="image" src="https://github.com/user-attachments/assets/099be1a5-0d86-4825-840e-c98e70ea2a00" />
 
 ---
 
