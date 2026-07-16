@@ -83,18 +83,16 @@ During this project, I practiced:
 
 ---
 
-## 🚀 Future Improvements
+## 🤝 Contributing
 
-- Create a graphical user interface (GUI)
-- Add advanced mathematical operations
-- Improve input validation
-- Implement unit tests
-- Refactor the code using object-oriented programming
+Contributions are welcome!
+
+If you'd like to improve this project, feel free to fork the repository and submit a Pull Request.
 
 ---
 
 ## 👨‍💻 Author
 
-**Daniel Callejon Maldonado**
+**Daniel Maldonado**
 
-This is one of the first projects in my programming portfolio. It represents an important step in my journey toward becoming a Cybersecurity professional while building a solid foundation in Python.
+GitHub: https://github.com/danielcmaldonado
